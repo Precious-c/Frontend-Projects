@@ -54,6 +54,6 @@ I hope to work more on the responsiveness of the site and also the form validati
 
 ## Author
 
-- Website - [Amaechi Precious](https://www.amaechiprecious.netlify.app)
+- Website - [Amaechi Precious](amaechiprecious.netlify.app)
 - Frontend Mentor - [@precious-c](https://www.frontendmentor.io/profile/Precious-c)
 - Twitter - [@maziryder](https://www.twitter.com/maziryder)
