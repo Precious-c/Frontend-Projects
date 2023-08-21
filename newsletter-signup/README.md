@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Precious-c/Frontend-Projects/tree/main/newsletter-signup))
-- Live Site URL: (https://newsletter-signup-precious.vercel.app)
+- Solution URL: [project Link](https://github.com/Precious-c/Frontend-Projects/tree/main/newsletter-signup))
+- Live Site URL: [Live Link](https://newsletter-signup-precious.vercel.app)
 
 ## My process
 
