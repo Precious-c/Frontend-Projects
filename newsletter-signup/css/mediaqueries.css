@@ -1,0 +1,48 @@
+@media screen and (max-width: 545px) {
+  body {
+    background-color: white;
+    margin: 0;
+    font-size: 17px;
+  }
+  .container {
+    flex-direction: column-reverse;
+    height: 100vh;
+    width: 100vw;
+    border-radius: 0;
+    margin: 0;
+  }
+
+  .col2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../assets/images/illustration-sign-up-mobile.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0 0 8% 8%;
+    width: 100vw;
+    height: 40%;
+    margin: 0;
+  }
+
+  .col1 {
+    margin: 0;
+    width: 90%;
+    margin-bottom: 10px;
+    height: 60%;
+  }
+  #emailInput,
+  .button {
+    height: 50px;
+  }
+  .col1 h1 {
+    margin: 30px auto;
+  }
+  .top {
+    margin: 10px auto;
+  }
+  #emailInput,
+  .col1 li {
+    margin-bottom: 15px;
+  }
+}

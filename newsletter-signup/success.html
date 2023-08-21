@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png" />
+    <link rel="stylesheet" type="text/css" href="css/success.css" />
+    <title>Frontend Mentor | Newsletter sign-up form with success message</title>
+  </head>
+  <body>
+    <!-- Success message start -->
+    <div class="container">
+      <div>
+        <img class="icon-success" src="assets/images/icon-success.svg" />
+        <h2>Thanks for subscribing!</h2>
+        <p>
+          A confirmation email has been sent to <span id="name">ash@loremcompany.com</span>. Please
+          open it and click the button inside to confirm your subscription.
+        </p>
+      </div>
+      <button class="button">Dismiss message</button>
+    </div>
+    <!-- Success message end -->
+
+    <script>
+      let putName = document.getElementById("name");
+      console.log(putName);
+      putName.innerText = "emailInput";
+    </script>
+  </body>
+</html>
